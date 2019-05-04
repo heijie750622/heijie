@@ -1,6 +1,7 @@
+gitbook serve
 git add .
 git commit -m "update"
-git push
+git push origin master
 
 git add .
 git commit -m "update"
