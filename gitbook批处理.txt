@@ -1,11 +1,13 @@
 gitbook serve
+
 git add .
 git commit -m "update"
 git push origin master
 
+git checkout gh-pages
+
 git add .
 git commit -m "update"
 git push -u origin gh-pages
-
 git checkout master
-git checkout gh-pages
+
