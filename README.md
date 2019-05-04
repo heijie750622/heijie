@@ -13,4 +13,4 @@
  
 
    —— be good at learning and wiling to share
-   做一个乐于分享的人
+   做一个善于学习乐于分享的人
