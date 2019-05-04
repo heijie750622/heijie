@@ -2,6 +2,6 @@ git add .
 git commit -m "update"
 git push
 
-git checkout gh-pages
-
-git checkout master
+git add .
+git commit -m "update"
+git push -u origin gh-pages
